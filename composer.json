@@ -27,16 +27,16 @@
         "ext-memcached": "Leverage the Memcached extension for Elasticache connections."
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Atyagi\\Elasticache": "src/"
         }
     },
     "extra": {
         "laravel": {
-          "providers": [
-            "Atyagi\\Elasticache\\ElasticacheServiceProvider"
-          ]
+            "providers": [
+                "Atyagi\\Elasticache\\ElasticacheServiceProvider"
+            ]
         }
-      },
+    },
     "minimum-stability": "dev"
 }

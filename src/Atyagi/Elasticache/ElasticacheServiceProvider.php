@@ -1,4 +1,6 @@
-<?php namespace Atyagi\Elasticache;
+<?php 
+
+namespace Atyagi\Elasticache;
 
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Support\ServiceProvider;
