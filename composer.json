@@ -1,5 +1,5 @@
 {
-    "name": "atyagi/elasticache-laravel",
+    "name": "juhlinus/elasticache-laravel",
     "description": "Elasticache Drivers for Laravel Cache and Session",
     "keywords": ["laravel", "AWS", "Elasticache"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Ankit Tyagi",
             "email": "ankit.tyagi.2@gmail.com"
+        },
+        {
+            "name": "Linus Juhlin",
+            "email": "juhlinus@gmail.com"
         }
     ],
     "require": {
