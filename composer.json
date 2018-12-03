@@ -27,5 +27,12 @@
             "Atyagi\\Elasticache": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+          "providers": [
+            "Atyagi\\Elasticache\\ElasticacheServiceProvider"
+          ]
+        }
+      },
     "minimum-stability": "dev"
 }
